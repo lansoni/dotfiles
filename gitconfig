@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tristanlanson@gmail.com
+	name = tristan lanson
